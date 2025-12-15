@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アマデウス",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2025-12-15T15:39:01.539794Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "ITO KANAKO",
+      "has_synced": true,
+      "path": "select/01_アマデウス_ITO_KANAKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_アマデウス_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/03_アマデウス_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/04_アマデウス_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "Ito Kanako",
+      "has_synced": true,
+      "path": "select/05_アマデウス_Ito_Kanako.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/06_アマデウス_majiko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/07_アマデウス_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アマデウス",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/08_アマデウス_Kanako_Ito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アマデウス",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_アマデウス_いとう_かなこ.txt"
+    }
+  ]
+}
